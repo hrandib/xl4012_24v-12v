@@ -1,2 +1,4 @@
 *.ms14 (Security copy)
 *.ms14$bak~
+*.ewprj (Security copy)
+*.ewnet
